@@ -31,33 +31,35 @@ Actionable Insights: Generate insights and recommendations based on data analysi
     3. FILTER ( )
     4. SWITCH ( )
 
+### Data Modelling 
+Data Modelling involving 10+ tables.
+
+<img width="600" height="300" alt="Modelling" src="https://github.com/user-attachments/assets/e29e45d7-1c0f-445b-b5cf-560c497d2b05">
+
 ### Dashboard Visuals
 1. **Home**
 
-<img width="600" height="300" alt="Home" src="https://github.com/user-attachments/assets/b915710d-52c0-46e7-a476-c8f3ace77750">
+<img width="600" height="300" alt="Home" src="https://github.com/user-attachments/assets/3962f8f6-51c6-4559-aadc-e0d1bcbf88a6">
 
 2. **Finance View**
 
-<img width="641" alt="Finance View" src="https://github.com/user-attachments/assets/f2678bf0-8b6f-4c4c-b4a3-cce5c37ff201">
-
+<img width="600" height="300" alt="Finance View" src="https://github.com/user-attachments/assets/388978b5-caf9-488a-bc96-b236f63180f4">
 
 3. **Sales View**
-
-<img width="600" height="300" alt="Sales View" src="https://github.com/user-attachments/assets/2eb7372d-be0b-4b7a-8141-6b8b70912329">
-
+   
+<img width="600" height="300" alt="Sales View" src="https://github.com/user-attachments/assets/c7c665e9-6e61-451e-ab92-1322dd916a1f">
 
 4. **Marketing View**
    
-   <img width="638" alt="Marketing View" src="https://github.com/user-attachments/assets/ffe15adf-d17c-489a-8d99-60ee7c3273cb">
+<img width="600" height="300" alt="Marketing View" src="https://github.com/user-attachments/assets/3a2897fd-ecc8-4f2b-9cf9-8d839e17865d">
 
 6. **Supply Chain View**
    
-<img width="637" alt="Supply Chain View" src="https://github.com/user-attachments/assets/f6e7c750-32e3-4a7e-b8ad-f5c8fabc74c7">
+<img width="600" height="300" alt="Supply Chain View" src="https://github.com/user-attachments/assets/08eac75b-127b-41f7-b3c7-71243f2a86cc">
 
-7. **Executive View**
-
-   <img width="640" alt="Executive View" src="https://github.com/user-attachments/assets/a3630e5e-36ce-4e02-aafd-b9ac9b38e024">
+8. **Executive View**
    
+<img width="600" height="300" alt="Executive View" src="https://github.com/user-attachments/assets/d7d605cf-74b5-4724-8dcc-5dda9f12cdef">
 
 ### Insights:
 
